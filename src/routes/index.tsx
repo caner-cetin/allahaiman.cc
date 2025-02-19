@@ -1,12 +1,13 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { useEffect } from 'react'
+
 export const Route = createFileRoute('/')({
-  component: Home,
+  component: HomeComponent,
 })
 
-function Home() {
+function HomeComponent() {
   useEffect(() => {
-    window.location.href = 'https://www.youtube.com/watch?v=GbqVHPR7A7Y&pp=ygUVa2luZyB3b21hbiBoaWVyb3BoYW50'
+    window.location.href = "https://www.youtube.com/watch?v=GbqVHPR7A7Y"
   })
   return null
 }
