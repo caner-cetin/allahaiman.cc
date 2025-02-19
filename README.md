@@ -1,0 +1,1 @@
+i have no idea what to do with this domain, nor i do not have any plans to do anything with it. so it is just, worlds most overengineered redirect page. https://allahaiman.cc
